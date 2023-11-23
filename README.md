@@ -1,7 +1,32 @@
 # SG
+Pygame
+Installation
 >> How to play
 pip install pygame
->> Project Title: Shooter Game in Python (Pygame)
+Usage
+>> The aim of the project was to create 2D Shooter
+Game using PyGame module. The game map is built
+up using individual tiles arranged in a grid. The main
+goal of the player is to move through the map killing
+enemies using gun or grenades.
+MAP
+>>The game map is built up using individual tiles
+arranged in a grid. There are three initial levels and a level editor is
+included to allow for expansion of the game.
+PLAYER
+>>The main character can move using WASD,
+SPACE to shoot and Q to throw grenades. The
+player has limited amount of HP, bullets and
+greandes. Player also can find additional HP,
+bullets or grenades during his journey.
+ENEMIES
+>>The enemies have AI, which allows them to patrol
+their area back and forth until they spot the player at
+which point they will stop and shoot. 
+Contributing
+>>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Project Title: Shooter Game in Python (Pygame)
 Project members:
 • Kussainov Dias
 The student of Astana IT University
